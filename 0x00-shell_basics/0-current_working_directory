@@ -1,1 +1,2 @@
-root@e7505e44be1e:/alx-system_engineering-devops/0x00-shell_basics# less 0-current_working_directory
+#!/bin/bash
+pwd
